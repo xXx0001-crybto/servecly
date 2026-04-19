@@ -1,5 +1,5 @@
 # Servecly  - Service Marketplace
-
+[![Servecly CI Pipeline](https://github.com/xXx0001-crybto/servecly/actions/workflows/ci.yml/badge.svg)](https://github.com/xXx0001-crybto/servecly/actions/workflows/ci.yml)
 Servecly is a professional-grade service marketplace frontend designed with architectural precision for a two-sided economy. It connects vetted professionals ("Taskers") with users for home repairs, moving, assembly, and more.
 
 ## 🚀 Quick Start
